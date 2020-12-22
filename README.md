@@ -1,2 +1,2 @@
 # test
-Ein test repository
+Ein test repository zum ausprobieren.
